@@ -35,8 +35,10 @@ public class practice{
 			total+=x1;
 		}
 		System.out.println("the total is "+ total);
+		System.out.println("hello");
 	}
 }
+
 
 
 
